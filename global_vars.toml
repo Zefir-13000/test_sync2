@@ -57,3 +57,8 @@ name = "Sleep"
 last_change = 2026-05-14T11:48:07.051470Z
 addr = 0xa
 name = "SetUnhandledExceptionFilter"
+
+[0x5]
+last_change = 2026-05-14T11:48:07.051470Z
+addr = 0x5
+name = "GetModuleHandleA"
