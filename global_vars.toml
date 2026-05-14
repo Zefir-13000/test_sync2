@@ -107,3 +107,8 @@ name = "TlsGetValue"
 last_change = 2026-05-14T11:48:07.064000Z
 addr = 0x7
 name = "InitializeCriticalSection"
+
+[0x1]
+last_change = 2026-05-14T11:48:07.065000Z
+addr = 0x1
+name = "DeleteCriticalSection"
