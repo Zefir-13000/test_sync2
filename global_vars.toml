@@ -7,3 +7,8 @@ name = "_exit"
 last_change = 2026-05-14T11:48:05.524949Z
 addr = 0x26
 name = "abort"
+
+[0x27]
+last_change = 2026-05-14T11:48:05.527460Z
+addr = 0x27
+name = "exit"
