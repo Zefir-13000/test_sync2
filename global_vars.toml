@@ -112,3 +112,8 @@ name = "InitializeCriticalSection"
 last_change = 2026-05-14T11:48:07.065000Z
 addr = 0x1
 name = "DeleteCriticalSection"
+
+[0x37]
+last_change = 2026-05-14T11:48:07.065000Z
+addr = 0x37
+name = "_tzset"
