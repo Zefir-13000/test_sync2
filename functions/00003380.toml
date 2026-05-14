@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x3380
+size = 0x6
+name = "_set_new_mode"
+
+[header]
+name = "_set_new_mode"
+addr = 0x3380
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x32e8
+size = 0x6
+name = "_cexit"
+
+[header]
+name = "_cexit"
+addr = 0x32e8
+
+[header.args]

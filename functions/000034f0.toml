@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x34f0
+size = 0x5
+name = "thunk_FUN_1400015e0"
+
+[header]
+name = "thunk_FUN_1400015e0"
+addr = 0x34f0
+
+[header.args]

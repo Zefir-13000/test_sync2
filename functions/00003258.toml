@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x3258
+size = 0x6
+name = "__timezone"
+
+[header]
+name = "__timezone"
+addr = 0x3258
+
+[header.args]

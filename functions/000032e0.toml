@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x32e0
+size = 0x6
+name = "__p___wargv"
+
+[header]
+name = "__p___wargv"
+addr = 0x32e0
+
+[header.args]

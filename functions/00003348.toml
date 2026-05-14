@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x3348
+size = 0x6
+name = "exit"
+
+[header]
+name = "exit"
+addr = 0x3348
+
+[header.args]

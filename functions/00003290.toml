@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x3290
+size = 0x6
+name = "__acrt_iob_func"
+
+[header]
+name = "__acrt_iob_func"
+addr = 0x3290
+
+[header.args]

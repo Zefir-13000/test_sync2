@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x32f0
+size = 0x6
+name = "_configure_narrow_argv"
+
+[header]
+name = "_configure_narrow_argv"
+addr = 0x32f0
+
+[header.args]

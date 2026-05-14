@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x18f0
+size = 0xa3
+name = "tls_callback_0"
+
+[header]
+name = "tls_callback_0"
+addr = 0x18f0
+
+[header.args]

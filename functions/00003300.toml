@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x3300
+size = 0x6
+name = "_crt_at_quick_exit"
+
+[header]
+name = "_crt_at_quick_exit"
+addr = 0x3300
+
+[header.args]

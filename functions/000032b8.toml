@@ -1,0 +1,10 @@
+last_change = 2026-05-14T12:44:15.666072Z
+addr = 0x32b8
+size = 0x6
+name = "__stdio_common_vfwprintf"
+
+[header]
+name = "__stdio_common_vfwprintf"
+addr = 0x32b8
+
+[header.args]
