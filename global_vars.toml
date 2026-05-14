@@ -87,3 +87,8 @@ name = "VirtualProtect"
 last_change = 2026-05-14T11:48:07.057483Z
 addr = 0x4
 name = "GetLastError"
+
+[0x2]
+last_change = 2026-05-14T11:48:07.058490Z
+addr = 0x2
+name = "EnterCriticalSection"
