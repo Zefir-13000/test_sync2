@@ -72,3 +72,8 @@ name = "LoadLibraryA"
 last_change = 2026-05-14T11:48:07.053472Z
 addr = 0x6
 name = "GetProcAddress"
+
+[0xe]
+last_change = 2026-05-14T11:48:07.055470Z
+addr = 0xe
+name = "VirtualQuery"
