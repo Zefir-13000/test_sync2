@@ -82,3 +82,8 @@ name = "VirtualQuery"
 last_change = 2026-05-14T11:48:07.056976Z
 addr = 0xd
 name = "VirtualProtect"
+
+[0x4]
+last_change = 2026-05-14T11:48:07.057483Z
+addr = 0x4
+name = "GetLastError"
