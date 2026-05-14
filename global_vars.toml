@@ -92,3 +92,8 @@ name = "GetLastError"
 last_change = 2026-05-14T11:48:07.058490Z
 addr = 0x2
 name = "EnterCriticalSection"
+
+[0x8]
+last_change = 2026-05-14T11:48:07.059490Z
+addr = 0x8
+name = "LeaveCriticalSection"
