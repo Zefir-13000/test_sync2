@@ -52,3 +52,8 @@ name = "default"
 last_change = 2026-05-14T11:48:07.050470Z
 addr = 0xb
 name = "Sleep"
+
+[0xa]
+last_change = 2026-05-14T11:48:07.051470Z
+addr = 0xa
+name = "SetUnhandledExceptionFilter"
