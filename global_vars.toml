@@ -12,3 +12,8 @@ name = "abort"
 last_change = 2026-05-14T11:48:05.527460Z
 addr = 0x27
 name = "exit"
+
+[0x140002e50]
+last_change = 2026-05-14T11:48:06.020202Z
+addr = 0x140002e50
+name = "FUN_140002e50"
