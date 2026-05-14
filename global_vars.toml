@@ -77,3 +77,8 @@ name = "GetProcAddress"
 last_change = 2026-05-14T11:48:07.055470Z
 addr = 0xe
 name = "VirtualQuery"
+
+[0xd]
+last_change = 2026-05-14T11:48:07.056976Z
+addr = 0xd
+name = "VirtualProtect"
